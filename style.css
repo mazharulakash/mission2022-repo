@@ -2,7 +2,9 @@ body
 {
     font-family: 'Poppins', sans-serif;
     margin: 0px;
-    padding: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
 }
 .first-section
 {
@@ -10,7 +12,8 @@ body
 }
 .section-div
 {
-    width: 45%;
+    width: 50%;
+    margin-top: 50px;
 }
 .section-div img
 {
@@ -24,6 +27,10 @@ body
     border-image-slice: 1;
     font-size: 20px;
 }
+.red-color
+{
+    color: rgb(185, 39, 39);
+}
 .first-btn1
 {
     border-radius: 5px;
@@ -31,5 +38,81 @@ body
     font-weight: 700;
     text-decoration: none;
     background-color: rgb(211, 224, 24);
-    padding: 5px 5px ;
+    padding: 5px 15px ;
+}
+/*second section start*/
+.second-section
+{
+    text-align: center;
+}
+.all-mission
+{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.all-part1
+{
+    background-color: rgba(214, 252, 178, 0.74);
+    width: 290px;
+    margin-bottom: 50px;
+    
+    border: 1px solid gray;
+    border-radius: 6px;
+}
+.all-part2
+{
+    background-color: rgb(247, 212, 218);
+    width: 290px;
+    margin-bottom: 50px;
+    
+    border: 1px solid gray;
+    border-radius: 6px;
+}
+.all-part3
+{
+    background-color: rgba(153, 210, 248, 0.74);
+    width: 290px;
+    margin-bottom: 50px;
+    
+    border: 1px solid gray;
+    border-radius: 6px;
+}
+.second-img img
+{
+    width: 100%;
+}
+.second-info-section
+{
+    padding: 5%;
+}
+
+/*Third section start*/
+
+.third-section
+{
+    display: flex;
+}
+.font-bold
+{
+    font-weight: bold ;
+}
+
+/*Fourth section start*/
+.fourth-section
+{
+    display: flex;
+}
+
+#footer1
+{
+    text-align: center;
+    color: white;
+    background-color: rgb(14, 10, 24);
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.any-color
+{
+    color: rgb(228, 51, 74);
 }
