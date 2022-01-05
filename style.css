@@ -1,0 +1,35 @@
+body
+{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 5%;
+}
+.first-section
+{
+    display: flex;
+}
+.section-div
+{
+    width: 45%;
+}
+.section-div img
+{
+    width: 60%;
+    padding-bottom: 200px;
+}
+.first-left1
+{
+    border-left: 7px solid rgb(33, 161, 165);
+    background-image: -moz-linear-gradient(rgb(212, 82, 82));
+    border-image-slice: 1;
+    font-size: 20px;
+}
+.first-btn1
+{
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    background-color: rgb(211, 224, 24);
+    padding: 5px 5px ;
+}
