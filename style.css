@@ -8,6 +8,8 @@ body
 .first-section
 {
     display: flex;
+    background-color: rgba(226, 250, 248, 0.678);
+    background-image: linear-gradient(rgb(177, 177, 231), rgb(255, 255, 255));
 }
 .section-div
 {
@@ -27,7 +29,7 @@ body
 .first-left1
 {
     font-family:'Times New Roman', Times, serif;
-    border-left: 5px solid rgb(33, 161, 165);
+    border-left: 5px solid rgb(20, 133, 238);
     background-image: -moz-linear-gradient(rgb(212, 82, 82));
     border-image-slice: 1;
     font-size: 25px;
