@@ -112,7 +112,7 @@ body
     background-image: url(./images/shape/reds.png);
     background-size: 150px;
     background-repeat: no-repeat;
-    background-position: 75px 124px;
+    background-position: 5px 124px;
 }
 .third-section img
 {
@@ -144,7 +144,7 @@ body
     display: flex;
     background-image: url(./images/shape/s3.png);
     background-repeat: no-repeat;
-    background-position:1325px 65px;
+    background-position:1325px 5px;
     background-size: 140px;
 }
 /*Fifth section start*/
@@ -164,7 +164,7 @@ body
     background-image: url(./images/shape/s2.png);
     background-size: 150px;
     background-repeat: no-repeat;
-    background-position: 99px 247px;
+    background-position: 29px 247px;
 }
 
 #tr-slice
@@ -186,7 +186,6 @@ body
     width: 100%;
     border-top-right-radius: 2%;
     border-top-left-radius: 2%;
-    
     padding-bottom: 200px;
 }
 .last-footer
@@ -203,7 +202,6 @@ body
     font-family: 'Cookie', cursive;
     font-size: 25px;
 }
-
 .any-color
 {  
     color: rgb(228, 51, 74);
