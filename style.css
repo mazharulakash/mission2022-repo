@@ -112,7 +112,7 @@ body
     background-image: url(./images/shape/reds.png);
     background-size: 150px;
     background-repeat: no-repeat;
-    background-position: 5px 124px;
+    background-position: 65px 127px;
 }
 .third-section img
 {
@@ -144,7 +144,7 @@ body
     display: flex;
     background-image: url(./images/shape/s3.png);
     background-repeat: no-repeat;
-    background-position:1325px 5px;
+    background-position:1315px 65px;
     background-size: 140px;
 }
 /*Fifth section start*/
@@ -164,7 +164,7 @@ body
     background-image: url(./images/shape/s2.png);
     background-size: 150px;
     background-repeat: no-repeat;
-    background-position: 29px 247px;
+    background-position: 99px 247px;
 }
 
 #tr-slice
