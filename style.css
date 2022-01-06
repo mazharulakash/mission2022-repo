@@ -2,9 +2,8 @@ body
 {
     font-family: 'Poppins', sans-serif;
     margin: 0px;
-    padding-left: 10%;
-    padding-right: 10%;
-    padding-top: 5%;
+    
+
 }
 .first-section
 {
@@ -12,6 +11,9 @@ body
 }
 .section-div
 {
+    padding-left: 7%;
+    padding-right: 8%;
+    padding-top: 5%;
     width: 50%;
     margin-top: 50px;
 }
@@ -19,17 +21,20 @@ body
 {
     width: 60%;
     padding-bottom: 200px;
+    
 }
 .first-left1
 {
-    border-left: 7px solid rgb(33, 161, 165);
+    font-family:'Times New Roman', Times, serif;
+    border-left: 5px solid rgb(33, 161, 165);
     background-image: -moz-linear-gradient(rgb(212, 82, 82));
     border-image-slice: 1;
-    font-size: 20px;
+    font-size: 25px;
+    box-shadow: 2px 2px 10px rgb(241, 239, 239);
 }
 .red-color
 {
-    color: rgb(185, 39, 39);
+    color: rgba(223, 20, 20, 0.993);
 }
 .first-btn1
 {
@@ -50,10 +55,11 @@ body
     display: flex;
     justify-content: space-around;
     margin-top: 50px;
+    
 }
 .all-part1
 {
-    background-color: rgba(214, 252, 178, 0.74);
+    background-color: rgba(209, 230, 25, 0.377);
     width: 290px;
     margin-bottom: 50px;
     
@@ -93,26 +99,84 @@ body
 {
     display: flex;
 }
+.third-section img
+{
+    width: 100%;
+}
 .font-bold
 {
     font-weight: bold ;
 }
+#tr-slice1
+{
+    border-left: 7px solid rgb(168, 9, 189);
+    border-image-slice: 1;
+    box-shadow: 2px 2px 10px rgb(197, 193, 193);
+}
+#tr-slice2
+{
+    border-left: 7px solid rgb(41, 247, 0);
+    border-image-slice: 1;
+    box-shadow: 2px 2px 10px rgb(197, 193, 193);
+}
+
 
 /*Fourth section start*/
 .fourth-section
 {
     display: flex;
 }
+/*Fifth section start*/
 
-#footer1
+.fifth-section
+{
+    text-align: center;
+}
+.fourth-section img
+{
+    width: 100%;
+}
+.last-section
+{
+    display: flex;
+}
+
+#tr-slice
+{
+    border-left: 7px solid rgb(255, 8, 8);
+    border-image-slice: 1;
+    box-shadow: 2px 2px 10px rgb(197, 193, 193);
+}
+.last-div
+{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+    width: 50%;
+}
+.last-div img
+{
+    
+    width: 100%;
+    padding-bottom: 200px;
+}
+
+.last-footer
 {
     text-align: center;
     color: white;
     background-color: rgb(14, 10, 24);
     padding-top: 1%;
     padding-bottom: 1%;
+    width: 100%;    
 }
-.any-color
+#footer1
 {
+    font-weight: 700;
+    font-family: 'Island Moments', cursive;
+}
+
+.any-color
+{  
     color: rgb(228, 51, 74);
 }
