@@ -109,10 +109,10 @@ body
 .third-section
 {
     display: flex;
-    background-image: url(./images/shape/reds.png);
+    /*background-image: url(./images/shape/reds.png);
     background-size: 150px;
     background-repeat: no-repeat;
-    background-position: 800px 127px;
+    background-position: 800px 127px;*/
 }
 .third-section img
 {
@@ -142,10 +142,10 @@ body
 .fourth-section
 {
     display: flex;
-    background-image: url(./images/shape/s3.png);
+   /* background-image: url(./images/shape/s3.png);
     background-repeat: no-repeat;
     background-position:1315px 65px;
-    background-size: 140px;
+    background-size: 140px;*/
 }
 /*Fifth section start*/
 
@@ -161,10 +161,10 @@ body
 .last-section
 {
     display: flex;
-    background-image: url(./images/shape/s2.png);
+   /* background-image: url(./images/shape/s2.png);
     background-size: 150px;
     background-repeat: no-repeat;
-    background-position: 99px 247px;
+    background-position: 99px 247px;*/
 }
 
 #tr-slice
