@@ -17,6 +17,7 @@ body
     width: 50%;
     margin-top: 50px;
 }
+
 .section-div img
 {
     width: 60%;
@@ -44,6 +45,11 @@ body
     text-decoration: none;
     background-color: rgb(211, 224, 24);
     padding: 5px 15px ;
+    transition: 0.7s;
+}
+.first-btn1:hover
+{
+    background-color: rgb(144, 208, 216);
 }
 /*second section start*/
 .second-section
@@ -98,6 +104,12 @@ body
 .third-section
 {
     display: flex;
+    background-image: url(./images/shape/s2.png);
+    background-size: 150px;
+    background-repeat: no-repeat;
+    background-position: right;
+    
+    
 }
 .third-section img
 {
@@ -125,6 +137,11 @@ body
 .fourth-section
 {
     display: flex;
+    background-image: url(./images/shape/s3.png);
+    background-repeat: no-repeat;
+    
+    background-position:top right;
+    background-size: 250px;
 }
 /*Fifth section start*/
 
@@ -172,8 +189,8 @@ body
 }
 #footer1
 {
-    font-weight: 700;
-    font-family: 'Island Moments', cursive;
+    font-family: 'Cookie', cursive;
+    font-size: 25px;
 }
 
 .any-color
